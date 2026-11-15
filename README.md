@@ -20,17 +20,10 @@
 ## Запуск
 
 python -m venv .venv
-
 source .venv/bin/activate # или .venv\Scripts\activate для Windows
-
 pip install -r requirements.txt
-
 python main.py
 
-## Авторы
+## Автор
 
-Студенты группы Б1123-38.03.05 
-- Александр Шипилов
-- Роман Титов
-- Елизавета Осипенко
-- Виолетта Мельситова
+Студент группы Б1123-38.03.05, Александр Шипилов.
