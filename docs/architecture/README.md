@@ -68,8 +68,8 @@ Python 3.10+, FastAPI, SQLAlchemy, PostgreSQL, Redis, Docker, pandas, openpyxl.
 - Этап 4. Переход к микросервисам (при необходимости)
 
 ## 10. Ссылки на ADR
-![ADR-001](/adr/ADR-001.md)
+[ADR-001](./adr/ADR-001.md)
 
-![ADR-002](/adr/ADR-002.md)
+[ADR-002](./adr/ADR-002.md)
 
-![ADR-003](/adr/ADR-003.md)
+[ADR-003](./adr/ADR-003.md)
