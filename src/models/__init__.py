@@ -17,3 +17,8 @@ __all__ = [
     "report_content",
     "sale_content",
 ]
+
+from src.database import Base
+from src.models import * # noqa
+
+print(Base.metadata.tables.keys())
